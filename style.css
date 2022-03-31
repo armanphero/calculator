@@ -36,27 +36,13 @@ footer > p {
 
 @media (max-width:1092px){
     #calculator {
-        width: 40%;
-        margin: 1% auto;
-        border: .1px solid gray;
-    }
-}
-
-@media (max-width:700px){
-    #calculator {
-        width: 70%;
+        width: 80%;
         margin: 3% auto;
         border: .1px solid gray;
     }
 }
 
-@media (max-width:565px){
-    #calculator {
-        width: 85%;
-        margin: 3% auto;
-        border: .1px solid gray;
-    }
-}
+
 
 
 
